@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "bandit:crowned_netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "bandit:crowned_netherite"
+      }
+    ]
+  }
+}

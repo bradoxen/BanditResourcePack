@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "bandit:arcane_netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "bandit:arcane_netherite"
+      }
+    ]
+  }
+}

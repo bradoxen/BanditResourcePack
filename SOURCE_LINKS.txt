@@ -1,0 +1,19 @@
+Pixabay source links and file mapping:
+
+rock_break.ogg
+https://pixabay.com/sound-effects/film-special-effects-small-rock-break-194553/
+
+glass_break.ogg
+https://pixabay.com/sound-effects/film-special-effects-glass-break-3-530786/
+
+nuclear_explosion.ogg
+https://pixabay.com/sound-effects/film-special-effects-nuclear-explosion-386181/
+
+touch_grass.ogg
+https://pixabay.com/sound-effects/film-special-effects-go-touch-grass-now-480975/
+
+sword_slice.ogg
+https://pixabay.com/sound-effects/film-special-effects-violent-sword-slice-2-393841/
+
+Download each file from Pixabay, convert to OGG Vorbis if needed, and place it inside:
+assets/minecraft/sounds/custom/kill/

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bandit:item/arcane_chestplate_netherite"
+  }
+}

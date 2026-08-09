@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "bandit:item/crowned_sword_netherite"
+  }
+}

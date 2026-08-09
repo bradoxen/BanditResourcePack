@@ -1,0 +1,42 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "scale": 1.0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_boots"
+    },
+    "entries": [
+      {
+        "threshold": 5004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/bandit_boots"
+        }
+      },
+      {
+        "threshold": 5014,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/crowned_boots"
+        }
+      },
+      {
+        "threshold": 5024,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/arcane_boots"
+        }
+      },
+      {
+        "threshold": 5034,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/ember_boots"
+        }
+      }
+    ]
+  }
+}

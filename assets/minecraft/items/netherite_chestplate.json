@@ -1,0 +1,42 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "scale": 1.0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_chestplate"
+    },
+    "entries": [
+      {
+        "threshold": 5002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/bandit_chestplate_netherite"
+        }
+      },
+      {
+        "threshold": 5012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/crowned_chestplate_netherite"
+        }
+      },
+      {
+        "threshold": 5022,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/arcane_chestplate_netherite"
+        }
+      },
+      {
+        "threshold": 5032,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/ember_chestplate_netherite"
+        }
+      }
+    ]
+  }
+}

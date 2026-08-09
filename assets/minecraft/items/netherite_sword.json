@@ -1,0 +1,42 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "scale": 1.0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_sword"
+    },
+    "entries": [
+      {
+        "threshold": 5041,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/bandit_blade_netherite"
+        }
+      },
+      {
+        "threshold": 5042,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/crowned_sword_netherite"
+        }
+      },
+      {
+        "threshold": 5043,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/arcane_saber_netherite"
+        }
+      },
+      {
+        "threshold": 5044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/ember_fang_netherite"
+        }
+      }
+    ]
+  }
+}

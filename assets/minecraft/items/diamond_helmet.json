@@ -1,0 +1,42 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "scale": 1.0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_helmet"
+    },
+    "entries": [
+      {
+        "threshold": 5001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/bandit_helmet"
+        }
+      },
+      {
+        "threshold": 5011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/crowned_helmet"
+        }
+      },
+      {
+        "threshold": 5021,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/arcane_helmet"
+        }
+      },
+      {
+        "threshold": 5031,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/ember_helmet"
+        }
+      }
+    ]
+  }
+}

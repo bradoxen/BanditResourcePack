@@ -1,0 +1,47 @@
+{
+  "custom.kill.rock_break": {
+    "sounds": [
+      {
+        "name": "custom/kill/rock_break",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "custom.kill.glass_break": {
+    "sounds": [
+      {
+        "name": "custom/kill/glass_break",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "custom.kill.nuclear_explosion": {
+    "sounds": [
+      {
+        "name": "custom/kill/nuclear_explosion",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "custom.kill.touch_grass": {
+    "sounds": [
+      {
+        "name": "custom/kill/touch_grass",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "custom.kill.sword_slice": {
+    "sounds": [
+      {
+        "name": "custom/kill/sword_slice",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}

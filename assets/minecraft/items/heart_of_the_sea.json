@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "scale": 1.0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/heart_of_the_sea"
+    },
+    "entries": [
+      {
+        "threshold": 5051,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/blood_sigil"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "scale": 1.0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_leggings"
+    },
+    "entries": [
+      {
+        "threshold": 5003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/bandit_leggings"
+        }
+      },
+      {
+        "threshold": 5013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/crowned_leggings"
+        }
+      },
+      {
+        "threshold": 5023,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/arcane_leggings"
+        }
+      },
+      {
+        "threshold": 5033,
+        "model": {
+          "type": "minecraft:model",
+          "model": "bandit:item/ember_leggings"
+        }
+      }
+    ]
+  }
+}
